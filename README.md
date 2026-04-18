@@ -1,3 +1,5 @@
+[![Download Latest Release](https://img.shields.io/github/v/release/UniFy-Endpoint/Winget-Install-Update?label=Download%20Latest&style=for-the-badge&logo=github)](https://github.com/UniFy-Endpoint/Winget-Install-Update/releases/latest)
+
 # Winget Install/Update Script for Windows Autopilot
 
 Automated PowerShell script for installing and updating **Windows Package Manager (winget)** in **SYSTEM context** during Windows Autopilot and Autopilot Device Preparation deployments.
